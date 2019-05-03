@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawDemo</string>
+    <string name="start_button_name">start</string>
+    <string name="stop_button_name">stop</string>
+</resources>
